@@ -1,5 +1,4 @@
 #firefox不如chrome
-# 进入浏览器设置
 import PIL
 from PIL import Image
 import selenium
