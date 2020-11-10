@@ -1,6 +1,7 @@
 #firefox不如chrome
-import PIL
-from PIL import Image
+#互联互通 手脑并用
+#import PIL                 因为用遍历取缔寻找暗块
+#from PIL import Image         所以不需要这两个包
 import selenium
 from selenium import webdriver
 from io import BytesIO
